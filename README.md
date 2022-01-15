@@ -26,6 +26,8 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
+My code is within the master branch.
+
 ## License
 
     Copyright [2022] [Preethi Goli]
